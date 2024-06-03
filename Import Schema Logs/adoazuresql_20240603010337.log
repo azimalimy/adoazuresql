@@ -1,0 +1,10 @@
+3/6/2024 9:03:37 AM	This log contains information about the import schema operation into project 'adoazuresql' on computer 'AZIMALI-5420' by user 'azimali'.
+3/6/2024 9:03:37 AM	Deserializing model
+3/6/2024 9:03:38 AM	Resolving model
+3/6/2024 9:03:38 AM	Visiting imported model for types
+3/6/2024 9:03:38 AM	Scanning project for duplicate elements
+3/6/2024 9:03:38 AM	Finished duplicate element processing
+3/6/2024 9:03:38 AM	Processing extra files
+3/6/2024 9:03:38 AM	Finished importing Data-tier Application file.
+3/6/2024 9:03:38 AM	A summary of the import was saved to the following location: C:\temp\code\repo\adoazuresql\adoazuresql\Import Schema Logs\adoazuresql_20240603010337.log
+3/6/2024 9:03:38 AM	Click Finish to continue...
