@@ -1,15 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\temp\\code\\repo\\adoazuresql\\adoazuresql\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|adoazuresql||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FE4744E-5DED-426A-9C28-0E2D7A8922E1}|adoazuresql.sqlproj|C:\\temp\\code\\repo\\adoazuresql\\adoazuresql\\adoazuresql.sqlproj||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|0032459b-05d4-453a-8918-372d533c7e42",
-      "RelativeMoniker": "D:0:0:{6FE4744E-5DED-426A-9C28-0E2D7A8922E1}|adoazuresql.sqlproj|solutionrelative:adoazuresql.sqlproj||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|0032459b-05d4-453a-8918-372d533c7e42"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -17,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,18 +42,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "adoazuresql",
-              "DocumentMoniker": "C:\\temp\\code\\repo\\adoazuresql\\adoazuresql\\adoazuresql.sqlproj",
-              "RelativeDocumentMoniker": "adoazuresql.sqlproj",
-              "ToolTip": "C:\\temp\\code\\repo\\adoazuresql\\adoazuresql\\adoazuresql.sqlproj",
-              "RelativeToolTip": "adoazuresql.sqlproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-06-03T01:02:54.431Z",
-              "EditorCaption": ""
             }
           ]
         }

@@ -1,0 +1,10 @@
+C:\temp\code\repo\adoazuresql\adoazuresql\bin\Debug\adoazuresql.dacpac
+C:\temp\code\repo\adoazuresql\adoazuresql\bin\Debug\adoazuresql.dll
+C:\temp\code\repo\adoazuresql\adoazuresql\bin\Debug\adoazuresql.pdb
+C:\temp\code\repo\adoazuresql\adoazuresql\obj\Debug\adoazuresql.sqlproj.AssemblyReference.cache
+C:\temp\code\repo\adoazuresql\adoazuresql\obj\Debug\Model.xml
+C:\temp\code\repo\adoazuresql\adoazuresql\obj\Debug\refactor.xml
+C:\temp\code\repo\adoazuresql\adoazuresql\obj\Debug\postdeploy.sql
+C:\temp\code\repo\adoazuresql\adoazuresql\obj\Debug\predeploy.sql
+C:\temp\code\repo\adoazuresql\adoazuresql\obj\Debug\adoazuresql.dll
+C:\temp\code\repo\adoazuresql\adoazuresql\obj\Debug\adoazuresql.pdb
