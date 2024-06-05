@@ -5,6 +5,7 @@
     [col4] NCHAR (1) NULL, 
     [col5] NCHAR(10) NULL,
     [col6] NCHAR (2) null,
-    [col7] NCHAR (2)
+    [col7] NCHAR (2),
+    [col8] NCHAR (1)
 );
 
