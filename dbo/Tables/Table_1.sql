@@ -7,6 +7,7 @@
     [col6] NCHAR (2) null,
     [col7] NCHAR (2),
     [col8] NCHAR (1),
-    [col9] NCHAR (2)
+    [col9] NCHAR (2),
+    [col10] NCHAR (1)
 );
 
