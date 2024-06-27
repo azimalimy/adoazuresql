@@ -8,6 +8,7 @@
     [col7] NCHAR (2),
     [col8] NCHAR (1),
     [col9] NCHAR (2),
-    [col10] NCHAR (1)
+    [col10] NCHAR (1), 
+    [col11] NCHAR(10) NULL
 );
 
