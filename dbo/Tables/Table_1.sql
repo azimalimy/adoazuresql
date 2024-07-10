@@ -11,7 +11,6 @@
     [col10] NCHAR (1), 
     [col11] NCHAR(10) NULL,
     [col12] NCHAR(10) NULL,
-    [col13] NCHAR(2),
-    [col14] NCHAR(2)
+    [col13] NCHAR(2)
 );
 
